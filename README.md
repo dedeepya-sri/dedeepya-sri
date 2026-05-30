@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Dedeepya 👋
 
-<!--
-**dedeepya-sri/dedeepya-sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI) @ ANITS · Graduating 2026
+SDE Intern @ Amazon (May–Jul 2025) · ICPC Amritapuri Regionalist 2024
 
-Here are some ideas to get you started:
+**What I build**
+- Infrastructure tooling & incident management platforms (Netra)
+- ML forecasting systems for energy grids (VidyutDrishti)
+- Graph-based route optimisers with real-map data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack I reach for**
+`Python` `Java` `FastAPI` `Spring Boot` `Next.js` `TypeScript`
+`PostgreSQL` `Redis` `Docker` `LangChain` `LightGBM` `LSTM`
+
+**Pinned projects** → Netra · VidyutDrishti · Traffic Optimizer
+
+📬 sridedeepya524@gmail.com
