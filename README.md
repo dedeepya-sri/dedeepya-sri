@@ -1,6 +1,6 @@
 ## Hi, I'm Dedeepya 👋
 
-B.Tech CSE (AI) @ ANITS · Graduating 2026
+B.Tech CSE (AI) @ ANITS · Graduating 2027
 SDE Intern @ Amazon (May–Jul 2025) · ICPC Amritapuri Regionalist 2024
 
 **What I build**
