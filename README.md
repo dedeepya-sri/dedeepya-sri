@@ -1,17 +1,44 @@
-## Hi, I'm Dedeepya 👋
+### Hi, I'm Dedeepya 👋
 
-B.Tech CSE (AI) @ ANITS · Graduating 2027
-SDE Intern @ Amazon (May–Jul 2025) · ICPC Amritapuri Regionalist 2024
+B.Tech CSE (AI) @ ANITS, Visakhapatnam — graduating 2027
 
-**What I build**
-- Infrastructure tooling & incident management platforms (Netra)
-- ML forecasting systems for energy grids (VidyutDrishti)
-- Graph-based route optimisers with real-map data
+- SDE Intern @ Amazon, Bengaluru
+- ICPC Amritapuri Regionalist 2024
+- GirlScript Summer of Code 2026 contributor
+- 3★ on CodeChef
 
-**Stack I reach for**
-`Python` `Java` `FastAPI` `Spring Boot` `Next.js` `TypeScript`
-`PostgreSQL` `Redis` `Docker` `LangChain` `LightGBM` `LSTM`
+---
 
-**Pinned projects** → Netra · VidyutDrishti · Traffic Optimizer
+### Projects
+
+**[Netra](https://github.com/dedeepya-sri/netra)** — real-time incident intelligence platform
+FastAPI · Next.js · PostgreSQL · LangChain · Docker
+
+**[VidyutDrishti](https://github.com/dedeepya-sri/vidyutdrishti)** — solar energy forecasting
+LightGBM · LSTM · Python
+
+**[Traffic Optimiser](https://github.com/dedeepya-sri/traffic-optimiser)** — graph-based route optimiser on real OSM data
+Python · NetworkX
+
+---
+
+### Skills
+
+**Frontend** — HTML, Tailwind CSS, JavaScript
+
+**Backend** — Node.js, Express, FastAPI
+
+**Databases** — MySQL, PostgreSQL, MongoDB
+
+**AI / ML** — LangChain, RAG, LightGBM, LSTM
+
+---
+
+### Coding profiles
+
+- CodeChef — [@dedeepya_sri](https://www.codechef.com/users/sridedeepya524)
+- Codeforces — [@dedeepya](https://codeforces.com/profile/dedeepya)
+
+---
 
 📬 sridedeepya524@gmail.com
